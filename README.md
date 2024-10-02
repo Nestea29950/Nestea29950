@@ -11,8 +11,8 @@ I'm a passionate full-stack developer with a love for clean code and efficient s
 ```javascript
 const techStack = {
   frontend: ['Vue.js', 'Nuxt.js', 'TailwindCSS'],
-  backend: ['Node.js', 'Express', 'Python'],
+  backend: ['Node.js', 'Express'],
   devOps: ['Docker', 'Linux', 'CI/CD'],
   databases: ['MongoDB', 'PostgreSQL'],
-  tools: ['Git', 'VS Code', 'Figma']
+  tools: ['Git', 'VS Code']
 };
