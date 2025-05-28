@@ -13,6 +13,6 @@ const techStack = {
   frontend: ['Vue.js', 'Nuxt.js', 'TailwindCSS'],
   backend: ['Node.js', 'Express'],
   devOps: ['Docker', 'Linux', 'CI/CD'],
-  databases: ['MongoDB', 'PostgreSQL'],
+  databases: ['PostgreSQL'],
   tools: ['Git', 'VS Code']
 };
